@@ -9,6 +9,6 @@ Your program should prompt the user for the name of the text file. Your program 
 Submit your source code for the program, “read.go”.
 
 ### CRITERION FOR EVALUATING THE WHOLE ASSIGNMENT 
-Peer reviewer: Please download and enter the submitted source code in Go, compile it, and mark the appropriate points. (Note: Follow the same procedure as if you were executing your own source code.)
+ - Peer reviewer: Please download and enter the submitted source code in Go, compile it, and mark the appropriate points. (Note: Follow the same procedure as if you were executing your own source code.)
 
-Peer reviewer: First, make a text file, using any text editor, which contains three rows. Each row should have one first name and one last name, separated by a space. Then, execute the program and enter the name of the text file that you made.
+ - Peer reviewer: First, make a text file, using any text editor, which contains three rows. Each row should have one first name and one last name, separated by a space. Then, execute the program and enter the name of the text file that you made.
